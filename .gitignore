@@ -1,0 +1,5 @@
+run
+.emacs_saves/
+.DS_Store
+*~
+*.*~
